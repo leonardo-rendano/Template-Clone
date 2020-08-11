@@ -1,0 +1,20 @@
+.main-container {
+  background-image: url('../../assets/banner.jpg');
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  height: 40vh;
+
+  color: #FFF;
+}
+
+.main-container h1 {
+  font-weight: 100;
+  font-size: 3em;
+}
